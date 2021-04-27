@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Slack
+    url: https://yolov5.slack.com/archives/C01GT16RHKQ
+    about: Chat with our community
+  - name: ❓ StackOverflow
+    url: https://stackoverflow.com/search?q=YOLOv5
+    about: Ask a question on StackOverflow
