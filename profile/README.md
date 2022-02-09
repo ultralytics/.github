@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ultralytics.com/">
-  <img width="900" src="https://user-images.githubusercontent.com/26833433/133791889-c13dcd4e-ea67-4e55-a183-ae905f1451cc.jpg"></a>
+  <img width="900" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/banner-social.jpg"></a>
 </p>
 
 <p align="center">
