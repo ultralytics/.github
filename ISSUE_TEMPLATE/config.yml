@@ -1,8 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: 💬 Slack
-    url: https://yolov5.slack.com/archives/C01GT16RHKQ
-    about: Chat with our community
-  - name: ❓ StackOverflow
+  - name: 💬 Forum
+    url: https://community.ultralytics.com/
+    about: Ask on Ultralytics Community Forum
+  - name: Stack Overflow
     url: https://stackoverflow.com/search?q=YOLOv5
-    about: Ask a question on StackOverflow
+    about: Ask on Stack Overflow with 'YOLOv5' tag
