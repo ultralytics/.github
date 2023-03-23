@@ -3,7 +3,7 @@
   <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
 </p>
 
-At [Ultralytics](https://ultralytics.com), we are dedicated to creating the best artificial intelligence models in the world. Our open source works here on GitHub offer cutting-edge solutions for a wide range of AI tasks, including [object detection](https://docs.ultralytics.com/tasks/detection/), [image segmentation](https://docs.ultralytics.com/tasks/segmentation/), and [image classification](https://docs.ultralytics.com/tasks/classification/).
+At [Ultralytics](https://ultralytics.com), we are dedicated to creating the best artificial intelligence models in the world. Our open source works here on GitHub offer cutting-edge solutions for a wide range of AI tasks, including [detection](https://docs.ultralytics.com/tasks/detect/), [segmentation](https://docs.ultralytics.com/tasks/segment/), [classification](https://docs.ultralytics.com/tasks/classify/) and [pose estimation](https://docs.ultralytics.com/tasks/pose/).
 
 We welcome [contributions](https://github.com/ultralytics/ultralytics#contribute) from the community and are always eager to hear from users with [feature requests](https://github.com/ultralytics/ultralytics/issues/new/choose) and [bug reports](https://github.com/ultralytics/ultralytics/issues/new/choose). If you're looking for state-of-the-art AI [models](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models) that are fast, accurate, and easy to use, Ultralytics is the place to be. 
 
