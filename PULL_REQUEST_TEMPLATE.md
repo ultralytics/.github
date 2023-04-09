@@ -7,4 +7,8 @@ Thank you 🙏 for submitting a Pull Request to an Ultralytics 🚀 repo! We wan
 I have read the CLA Document and I sign the CLA
 
 Please see our ✅ [Contributing Guide](https://github.com/ultralytics/ultralytics/blob/master/CONTRIBUTING.md) for more details.
+
+Note that Copilot will summarize this PR below, do not modify the 'copilot:all' line.
 -->
+
+copilot:all
