@@ -1,3 +1,4 @@
+<br>
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320">
 
 # 📚 Ultralytics GitHub Community Resources
@@ -28,7 +29,7 @@ We thrive on community feedback and contributions! Your insights and code enhanc
 
 ## 📬 Contact
 
-For reporting bugs or requesting new features, head over to [GitHub Issues](https://github.com/ultralytics/xview-yolov3/issues). Also, feel free to join our vibrant [Discord](https://ultralytics.com/discord) community for discussions, queries, and sharing your experiences.
+For reporting bugs or requesting new features, head over to [GitHub Issues](https://github.com/ultralytics/.github/issues). Also, feel free to join our vibrant [Discord](https://ultralytics.com/discord) community for discussions, queries, and sharing your experiences.
 
 <br>
 <!-- Ultralytics' social media and platform icons -->
@@ -47,6 +48,3 @@ For reporting bugs or requesting new features, head over to [GitHub Issues](http
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://ultralytics.com/discord"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
-```
-
-This revised README provides a clearer explanation of the purpose of the repository and engagement guidelines, ensuring that both Ultralytics team members and external contributors can navigate and collaborate efficiently. The friendly and professional tone aims to welcome contributions while maintaining high standards for quality and consistency.
