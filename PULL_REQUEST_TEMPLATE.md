@@ -1,15 +1,10 @@
+Thank you 🙏 for your contribution to [Ultralytics](https://ultralytics.com) 🚀! Your effort in enhancing our repositories is greatly appreciated. To streamline the process and assist us in integrating your Pull Request (PR) effectively, please follow these steps:
 
-<!--
-Thank you 🙏 for submitting a Pull Request to an Ultralytics 🚀 repo! We want to make contributing as possible. A few tips to get you started:
+1. **Check for Existing Contributions**: Before submitting, kindly explore existing PRs to ensure your contribution is unique and complementary.
+2. **Link Related Issues**: If your PR addresses an open issue, please link it in your submission. This helps us better understand the context and impact of your contribution.
+3. **Elaborate Your Changes**: Clearly articulate the purpose of your PR. Whether it's a bug fix or a new feature, a detailed description aids in a smoother integration process.
+4. **Ultralytics Contributor License Agreement (CLA)**: To uphold the quality and integrity of our project, we require all contributors to sign the CLA. Please confirm your agreement by commenting below:
+   
+    _I have read the CLA Document and I hereby sign the CLA_
 
-- Search existing PRs to see if a similar contribution already exists.
-- Link this PR to an open Issue to help us understand what bug fix or feature is being implemented.
-- Sign the Ultralytics Contributor License Agreement (CLA) by writing the below statement in a PR comment:  
-I have read the CLA Document and I sign the CLA
-
-Please see our ✅ [Contributing Guide](https://github.com/ultralytics/ultralytics/blob/master/CONTRIBUTING.md) for more details.
-
-Note that Copilot will summarize this PR below, do not modify the 'copilot:all' line.
--->
-
-copilot:all
+For more detailed guidance and best practices on contributing, refer to our ✅ [Contributing Guide](https://docs.ultralytics.com/help/contributing). Your adherence to these guidelines ensures a faster and more effective review process.
