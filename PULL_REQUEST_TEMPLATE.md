@@ -1,6 +1,4 @@
-Thank you 🙏 for your contribution to Ultralytics! 🚀
-
-Your effort in enhancing our repositories is greatly appreciated. To streamline the process and assist us in integrating your Pull Request (PR) effectively, please consider the following steps:
+Thank you 🙏 for your contribution to Ultralytics 🚀! Your effort in enhancing our repositories is greatly appreciated. To streamline the process and assist us in integrating your Pull Request (PR) effectively, please follow these steps:
 
 1. **Check for Existing Contributions**: Before submitting, kindly explore existing PRs to ensure your contribution is unique and complementary.
 2. **Link Related Issues**: If your PR addresses an open issue, please link it in your submission. This helps us better understand the context and impact of your contribution.
