@@ -3,7 +3,7 @@
 
 # 📚 Ultralytics GitHub Community Resources
 
-Welcome to the Ultralytics `.github` repository! This repository is your go-to location for shared resources, community guidelines, and templates that ease collaboration both within the Ultralytics team and with the open source community at large. 
+Welcome to the Ultralytics `.github` repository! This repository is your go-to location for shared resources, community guidelines, and templates that ease collaboration both within the Ultralytics team and with the open source community at large.
 
 ## 🎯 Purpose of this Repository
 
@@ -24,6 +24,7 @@ The `.github` repository is a dedicated space that helps standardize and streaml
 We thrive on community feedback and contributions! Your insights and code enhance the quality of the open-source projects maintained by Ultralytics. If you're ready to contribute, please check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing). Also, we'd appreciate your thoughts about your experience—please take a moment to complete our [Survey](https://ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge thank you 🙏 to all our contributors!
 
 <!-- Featuring an image of our amazing contributors -->
+
 <a href="https://github.com/ultralytics/yolov5/graphs/contributors">
 <img width="100%" src="https://github.com/ultralytics/assets/raw/main/im/image-contributors.png" alt="Ultralytics open-source contributors"></a>
 
