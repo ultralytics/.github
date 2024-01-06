@@ -22,6 +22,12 @@ Use the Issue to provide supporting evidence or citations for the bug or fix.
 
 -->
 
+### Relevant Discussions
+
+<!--
+Add reference links to any Community Discussions relevant to changes made in this PR.
+-->
+
 ## Rationale/Justification
 
 <!-- ADD FEATURE (required)
