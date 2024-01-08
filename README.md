@@ -5,6 +5,8 @@
 
 Welcome to the Ultralytics `.github` repository! This repository is your go-to location for shared resources, community guidelines, and templates that ease collaboration both within the Ultralytics team and with the open source community at large.
 
+[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml)
+
 ## 🎯 Purpose of this Repository
 
 The `.github` repository is a dedicated space that helps standardize and streamline our engagement with the broader GitHub community and within Ultralytics' own projects. It's where you'll find a treasure trove of resources, including:
