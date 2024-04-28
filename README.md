@@ -5,7 +5,7 @@
 
 Welcome to the Ultralytics `.github` repository! This repository is your go-to location for shared resources, community guidelines, and templates that ease collaboration both within the Ultralytics team and with the open source community at large.
 
-[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml)
+[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml) <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a>
 
 ## 🎯 Purpose of this Repository
 
