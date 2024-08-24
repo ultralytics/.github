@@ -6,7 +6,7 @@ Thank you 🙏 for your contribution to [Ultralytics](https://ultralytics.com) �
 3. **Elaborate Your Changes**: Clearly articulate the purpose of your PR. Whether it's a bug fix or a new feature, a detailed description aids in a smoother integration process.
 4. **Ultralytics Contributor License Agreement (CLA)**: To uphold the quality and integrity of our project, we require all contributors to sign the CLA. Please confirm your agreement by commenting below:
 
-    _I have read the CLA Document and I sign the CLA_
+    I have read the CLA Document and I sign the CLA
 
 For more detailed guidance and best practices on contributing, refer to our ✅ [Contributing Guide](https://docs.ultralytics.com/help/contributing). Your adherence to these guidelines ensures a faster and more effective review process.
 --->
