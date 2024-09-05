@@ -23,7 +23,7 @@ The `.github` repository is a dedicated space that helps standardize and streaml
 
 ## 🗣 Feedback and Contributions
 
-We thrive on community feedback and contributions! Your insights and code enhance the quality of the open-source projects maintained by Ultralytics. If you're ready to contribute, please check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing). Also, we'd appreciate your thoughts about your experience—please take a moment to complete our [Survey](https://ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge thank you 🙏 to all our contributors!
+We thrive on community feedback and contributions! Your insights and code enhance the quality of the open-source projects maintained by Ultralytics. If you're ready to contribute, please check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing). Also, we'd appreciate your thoughts about your experience—please take a moment to complete our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge thank you 🙏 to all our contributors!
 
 <!-- Featuring an image of our amazing contributors -->
 
@@ -32,7 +32,7 @@ We thrive on community feedback and contributions! Your insights and code enhanc
 
 ## 📬 Contact
 
-For reporting bugs or requesting new features, head over to [GitHub Issues](https://github.com/ultralytics/.github/issues). Also, feel free to join our vibrant [Discord](https://ultralytics.com/discord) community for discussions, queries, and sharing your experiences.
+For reporting bugs or requesting new features, head over to [GitHub Issues](https://github.com/ultralytics/.github/issues). Also, feel free to join our vibrant [Discord](https://discord.com/invite/ultralytics) community for discussions, queries, and sharing your experiences.
 
 <br>
 <!-- Ultralytics' social media and platform icons -->
