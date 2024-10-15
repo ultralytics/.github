@@ -1,11 +1,11 @@
 <br>
-<a href="https://ultralytics.com" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # 📚 Ultralytics GitHub Community Resources
 
 Welcome to the Ultralytics `.github` repository! This repository is your go-to location for shared resources, community guidelines, and templates that ease collaboration both within the Ultralytics team and with the open source community at large.
 
-[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml) <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a> <a href="https://community.ultralytics.com"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a> <a href="https://reddit.com/r/ultralytics"><img alt="Ultralytics Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue"></a>
+[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml) <a href="https://discord.com/invite/ultralytics"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a> <a href="https://community.ultralytics.com/"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a> <a href="https://reddit.com/r/ultralytics"><img alt="Ultralytics Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue"></a>
 
 ## 🎯 Purpose of this Repository
 
@@ -23,7 +23,7 @@ The `.github` repository is a dedicated space that helps standardize and streaml
 
 ## 🗣 Feedback and Contributions
 
-We thrive on community feedback and contributions! Your insights and code enhance the quality of the open-source projects maintained by Ultralytics. If you're ready to contribute, please check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing). Also, we'd appreciate your thoughts about your experience—please take a moment to complete our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge thank you 🙏 to all our contributors!
+We thrive on community feedback and contributions! Your insights and code enhance the quality of the open-source projects maintained by Ultralytics. If you're ready to contribute, please check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing/). Also, we'd appreciate your thoughts about your experience—please take a moment to complete our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge thank you 🙏 to all our contributors!
 
 <!-- Featuring an image of our amazing contributors -->
 
@@ -49,5 +49,5 @@ For reporting bugs or requesting new features, head over to [GitHub Issues](http
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://ultralytics.com/bilibili"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-bilibili.png" width="3%" alt="Ultralytics BiliBili"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://ultralytics.com/discord"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
+  <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>

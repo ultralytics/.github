@@ -8,5 +8,5 @@ Thank you 🙏 for your contribution to [Ultralytics](https://www.ultralytics.co
 
     I have read the CLA Document and I sign the CLA
 
-For more detailed guidance and best practices on contributing, refer to our ✅ [Contributing Guide](https://docs.ultralytics.com/help/contributing). Your adherence to these guidelines ensures a faster and more effective review process.
+For more detailed guidance and best practices on contributing, refer to our ✅ [Contributing Guide](https://docs.ultralytics.com/help/contributing/). Your adherence to these guidelines ensures a faster and more effective review process.
 --->
