@@ -24,7 +24,7 @@ Examples of unacceptable behavior include:
 - Trolling, insulting or derogatory comments, and personal or political attacks.
 - Public or private harassment. Resources like [Project Include](https://projectinclude.org/) offer guidance on preventing such behaviors.
 - Publishing others' private information, such as a physical or email address, without their explicit permission. This violates fundamental [data privacy](https://www.ultralytics.com/glossary/data-privacy) principles.
-- Other conduct which could reasonably be considered inappropriate in a professional setting, similar to standards upheld by organizations like the [Python Software Foundation](https://www.python.org/psf/conduct/).
+- Other conduct which could reasonably be considered inappropriate in a professional setting, similar to standards upheld by organizations like the [Python Software Foundation](https://policies.python.org/python.org/code-of-conduct/).
 
 ## 🛡️ Enforcement Responsibilities
 
@@ -34,7 +34,7 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## 🌐 Scope
 
-This Code of Conduct applies within all community spaces, such as Ultralytics [GitHub Issues](https://github.com/ultralytics/ultralytics/issues) and [Discussions](https://github.com/orgs/ultralytics/discussions), and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account (like sharing updates from the [Ultralytics Blog](https://www.ultralytics.com/blog)), or acting as an appointed representative at an online or offline event, similar to the scope defined by the [W3C Code of Ethics](https://www.w3.org/Consortium/cepc/).
+This Code of Conduct applies within all community spaces, such as Ultralytics [GitHub Issues](https://github.com/ultralytics/ultralytics/issues) and [Discussions](https://github.com/orgs/ultralytics/discussions), and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account (like sharing updates from the [Ultralytics Blog](https://www.ultralytics.com/blog)), or acting as an appointed representative at an online or offline event, similar to the scope defined by the [W3C Code of Ethics](https://www.w3.org/policies/code-of-conduct/).
 
 ## ⚖️ Enforcement
 
