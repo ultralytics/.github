@@ -1,16 +1,19 @@
-<a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # 📚 Ultralytics GitHub Community Resources
 
 Welcome to the Ultralytics `.github` repository! This repository serves as a central hub for shared resources, community guidelines, and templates designed to streamline collaboration within the Ultralytics team and with our vibrant [open-source community](https://opensource.guide/). We aim to foster a productive and welcoming environment for everyone interested in contributing to the future of [Artificial Intelligence (AI)](https://www.ultralytics.com/glossary/artificial-intelligence-ai).
 
-[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml) <a href="https://discord.com/invite/ultralytics"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a> <a href="https://community.ultralytics.com/"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a> <a href="https://reddit.com/r/ultralytics"><img alt="Ultralytics Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue"></a>
+[![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml)
+[![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
+[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
 
 ## 🎯 Purpose of This Repository
 
-The `.github` repository is a special GitHub feature that helps standardize interactions across all [Ultralytics projects](https://github.com/ultralytics) and the broader [GitHub community](https://github.community/). It contains essential resources such as:
+The `.github` repository is a special GitHub feature that helps standardize interactions across all [Ultralytics projects](https://github.com/ultralytics) and the broader [GitHub community](https://github.com/orgs/community/discussions/). It contains essential resources such as:
 
-- **[GitHub Actions Workflows](https://github.com/features/actions)**: Automated sequences that enhance our development and deployment cycles. These workflows improve efficiency and ensure consistent quality, as discussed in posts on the [Ultralytics blog](https://www.ultralytics.com/blog/from-algorithms-to-automation-ais-role-in-robotics).
+- **[GitHub Actions Workflows](https://github.com/features/actions)**: Automated sequences that enhance our development and deployment cycles. These workflows improve efficiency and ensure consistent quality, contributing to the automation discussed on the [Ultralytics blog](https://www.ultralytics.com/blog/from-algorithms-to-automation-ais-role-in-robotics).
 - **[Issue Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)**: Structured templates designed to improve the clarity and completeness of issue reports. This facilitates better communication and faster resolution for bugs, suggestions, or feature requests related to models like [Ultralytics YOLO](https://docs.ultralytics.com/models/).
 - **[Pull Request Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)**: Templates to guide contributors in creating detailed and meaningful pull requests, ensuring all necessary information is included for review.
 - **Contributing Guidelines**: The foundation of our collaboration strategy. These guidelines outline how to contribute effectively, aligning with our processes, boosting productivity, and maintaining high-quality standards. Find detailed guidance in our [contribution documentation](https://docs.ultralytics.com/help/contributing/).
@@ -26,7 +29,7 @@ We highly value community feedback and contributions! Your insights and code sig
 
 A huge thank you 🙏 to all our contributors for helping us push the boundaries of AI and [Computer Vision (CV)](https://www.ultralytics.com/glossary/computer-vision-cv)! Your efforts are crucial to our shared success.
 
-[![Ultralytics open-source contributors](https://github.com/ultralytics/assets/raw/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
+[![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
 ## 📬 Contact
 
