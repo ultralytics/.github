@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.ultralytics.com/">
-  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png" alt="Ultralytics Banner"></a>
+  <img width="1024" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="Ultralytics Banner"></a>
 </p>
 <div align="center">
 
