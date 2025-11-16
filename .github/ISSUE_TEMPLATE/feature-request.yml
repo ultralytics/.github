@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for sharing your ideas with the Ultralytics team! Thoughtful requests help us prioritize the roadmap across YOLO, hubs, SDKs, plugins, and more.
+        Thanks for sharing your ideas with the Ultralytics team! Thoughtful requests help us prioritize the roadmap across YOLO, Platform, SDKs, plugins, and more.
 
   - type: checkboxes
     attributes:
