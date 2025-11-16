@@ -42,7 +42,7 @@ body:
         - "Training / Finetuning"
         - "Validation / Evaluation"
         - "Prediction / Export"
-        - "Integrations (hub, SDK, plugins, etc.)"
+        - "Integrations (Platform, APIs, plugins, etc.)"
         - "Documentation"
         - "Other"
 
