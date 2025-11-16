@@ -1,0 +1,44 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+name: ❓ Question
+description: Ask an Ultralytics software question
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out! Provide as much detail as you can so the Ultralytics community can help quickly.
+
+  - type: checkboxes
+    attributes:
+      label: Search before asking
+      description: >
+        Please review the Ultralytics [Docs](https://docs.ultralytics.com/), [issues](https://github.com/ultralytics/), and [discussions](https://github.com/orgs/ultralytics/discussions) to see if your question was already answered.
+      options:
+        - label: >
+            I have searched Ultralytics [issues](https://github.com/ultralytics/) and [discussions](https://github.com/orgs/ultralytics/discussions) and found no similar question.
+          required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or product
+      description: Which Ultralytics project is this about?
+      placeholder: |
+        e.g., https://github.com/ultralytics/ultralytics, "Ultralytics HUB", etc.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Question
+      description: What would you like to know? Include code/config snippets, commands, error logs, and screenshots when helpful.
+      placeholder: |
+        💡 Tip! Include relevant sections of config files, commands like `yolo detect train`, output logs, or rendered results to help us answer accurately.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Anything else that might help the maintainers or community respond?
