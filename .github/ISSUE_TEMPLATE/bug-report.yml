@@ -1,0 +1,95 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+name: 🐛 Bug Report
+description: Problems with an Ultralytics project
+labels: [bug]
+type: "bug"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Ultralytics software! Share as much detail as possible so we can reproduce and fix the issue quickly.
+
+  - type: checkboxes
+    attributes:
+      label: Search before reporting
+      description: >
+        Please search the Ultralytics [Docs](https://docs.ultralytics.com/) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar bug report already exists.
+      options:
+        - label: >
+            I have searched the appropriate Ultralytics [issues](https://github.com/ultralytics/) and found no similar bug report.
+          required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or project
+      description: Which Ultralytics repository or product is affected?
+      placeholder: |
+        e.g., https://github.com/ultralytics/ultralytics or "YOLOv8 PyPI package"
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Component / area
+      description: Select the part of the project where the bug occurs.
+      multiple: true
+      options:
+        - "Install / Setup"
+        - "Configuration"
+        - "CLI or API"
+        - "Training / Finetuning"
+        - "Validation / Evaluation"
+        - "Prediction / Export"
+        - "Integrations (Platform, APIs, plugins, etc.)"
+        - "Documentation"
+        - "Other"
+
+  - type: textarea
+    attributes:
+      label: Bug description
+      description: Provide a clear description of the issue. Include console output, stack traces, screenshots, or logs where relevant.
+      placeholder: |
+        💡 ProTip! Include exact commands (e.g., `yolo detect train ...`) or scripts plus their output.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment
+      description: Share software versions and hardware details so we can reproduce the problem.
+      placeholder: |
+        Please include:
+        - OS (e.g., Ubuntu 22.04, Windows 11, macOS 14)
+        - Python version
+        - Ultralytics package or repo commit
+        - CUDA / GPU info (if applicable)
+        - Installation method (pip/conda/source/docker, etc.)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Minimal reproducible example
+      description: >
+        Provide the smallest possible code/config snippet and steps to reproduce. See our [guide](https://docs.ultralytics.com/help/minimum_reproducible_example/) for tips.
+      placeholder: |
+        ```python
+        # Code or commands here
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Anything else we should know? Links to demo repos, datasets, screenshots, etc. are welcome.
+
+  - type: checkboxes
+    attributes:
+      label: Are you willing to submit a PR?
+      description: >
+        (Optional) We encourage you to open a [Pull Request](https://github.com/ultralytics/) if you have a fix or improvement in mind.
+      options:
+        - label: Yes, I'd like to help by submitting a PR!

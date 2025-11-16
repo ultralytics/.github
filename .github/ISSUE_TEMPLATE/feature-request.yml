@@ -1,0 +1,67 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+name: 🚀 Feature Request
+description: Suggest an Ultralytics software idea
+labels: [enhancement]
+type: "feature"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing your ideas with the Ultralytics team! Thoughtful requests help us prioritize the roadmap across YOLO, Platform, SDKs, plugins, and more.
+
+  - type: checkboxes
+    attributes:
+      label: Search before requesting
+      description: >
+        Please search the Ultralytics [Docs](https://docs.ultralytics.com/) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar request already exists.
+      options:
+        - label: >
+            I have searched the appropriate Ultralytics [issues](https://github.com/ultralytics/) and found no similar feature request.
+          required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or product
+      description: Which Ultralytics repo, package, or service is this about?
+      placeholder: |
+        e.g., https://github.com/ultralytics/ultralytics, "Ultralytics HUB", etc.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Feature description
+      description: Clearly describe the capability or change you’d like to see.
+      placeholder: |
+        What should happen differently? Include CLI/API examples or UI mockups if helpful.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Use case / motivation
+      description: Explain the workflow, users, and problems this feature helps.
+      placeholder: |
+        Who benefits? Why is this important now?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Alternatives or workarounds
+      description: Describe any approaches you've tried or considered.
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Links to docs, datasets, or reference implementations are welcome.
+
+  - type: checkboxes
+    attributes:
+      label: Are you willing to submit a PR?
+      description: >
+        (Optional) If you can help implement this idea, please consider opening a [Pull Request](https://github.com/ultralytics/).
+      options:
+        - label: Yes, I'd like to help by submitting a PR!

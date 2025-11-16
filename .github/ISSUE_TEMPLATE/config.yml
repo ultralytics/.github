@@ -1,0 +1,16 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+blank_issues_enabled: true
+contact_links:
+  - name: 📄 Ultralytics Docs
+    url: https://docs.ultralytics.com/
+    about: Tutorials, API/CLI usage, troubleshooting guides, and contributing info.
+  - name: 💬 Community Forum
+    url: https://community.ultralytics.com/
+    about: Ask questions and share projects with the Ultralytics community.
+  - name: 🎧 Ultralytics Discord
+    url: https://discord.com/invite/ultralytics
+    about: Chat with Ultralytics engineers and other users in real time.
+  - name: 🧠 Ultralytics Discussions
+    url: https://github.com/orgs/ultralytics/discussions
+    about: Explore org-wide discussions for tips, best practices, and roadmap updates.
