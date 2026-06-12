@@ -6,7 +6,7 @@
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone. This applies regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Building an inclusive environment is crucial for fostering innovation in fields like [artificial intelligence (AI)](https://www.ultralytics.com/glossary/artificial-intelligence-ai) and [computer vision (CV)](https://www.ultralytics.com/glossary/computer-vision-cv).
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. We encourage you to review the [Ultralytics Contributing Guidelines](https://docs.ultralytics.com/help/contributing/) for more details on how to get involved and contribute to projects like [Ultralytics YOLO](https://www.ultralytics.com/yolo). Understanding [AI ethics](https://www.ultralytics.com/glossary/ai-ethics) is also a key part of responsible contribution to the [Ultralytics ecosystem](https://github.com/ultralytics/ultralytics). Explore our main documentation at [https://docs.ultralytics.com/](https://docs.ultralytics.com/).
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. We encourage you to review the [Ultralytics Contributing Guidelines](https://docs.ultralytics.com/help/contributing) for more details on how to get involved and contribute to projects like [Ultralytics YOLO](https://www.ultralytics.com/yolo). Understanding [AI ethics](https://www.ultralytics.com/glossary/ai-ethics) is also a key part of responsible contribution to the [Ultralytics ecosystem](https://github.com/ultralytics/ultralytics). Explore our main documentation at [https://docs.ultralytics.com/](https://docs.ultralytics.com/).
 
 ## ✅ Our Standards
 
@@ -28,9 +28,9 @@ Examples of unacceptable behavior include:
 
 ## 🛡️ Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior. They will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. Maintaining a respectful environment is essential for productive discussions around topics like [model deployment](https://www.ultralytics.com/glossary/model-deployment), exploring [AI solutions](https://www.ultralytics.com/solutions), or creating [datasets](https://docs.ultralytics.com/datasets/).
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior. They will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. Maintaining a respectful environment is essential for productive discussions around topics like [model deployment](https://www.ultralytics.com/glossary/model-deployment), exploring [AI solutions](https://www.ultralytics.com/solutions), or creating [datasets](https://docs.ultralytics.com/datasets).
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They will communicate reasons for moderation decisions when appropriate, ensuring [transparency in AI](https://www.ultralytics.com/glossary/transparency-in-ai) community management. For further assistance, users can visit the [Ultralytics Help](https://docs.ultralytics.com/help/) section or consult the [Ultralytics Glossary](https://www.ultralytics.com/glossary) for definitions.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They will communicate reasons for moderation decisions when appropriate, ensuring [transparency in AI](https://www.ultralytics.com/glossary/transparency-in-ai) community management. For further assistance, users can visit the [Ultralytics Help](https://docs.ultralytics.com/help) section or consult the [Ultralytics Glossary](https://www.ultralytics.com/glossary) for definitions.
 
 ## 🌐 Scope
 
@@ -48,7 +48,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community. This could hinder collaboration on tools like [Ultralytics HUB](https://www.ultralytics.com/hub).
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community. This could hinder collaboration on tools like [Ultralytics HUB](https://platform.ultralytics.com/).
 
 **Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
@@ -80,4 +80,4 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 ---
 
-We value your contributions and encourage you to help us improve the Ultralytics ecosystem. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) for more information on how you can participate. Thank you for being part of our community and helping us build the future of [Vision AI](https://www.ultralytics.com/blog-category/vision-ai)!
+We value your contributions and encourage you to help us improve the Ultralytics ecosystem. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing) for more information on how you can participate. Thank you for being part of our community and helping us build the future of [Vision AI](https://www.ultralytics.com/blog)!
