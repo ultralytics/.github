@@ -21,7 +21,7 @@ The most common agent failure in this repo is reaching for the locally-safest ed
 
 **NEVER push to `main`. NEVER force push.** Always start work in a new git worktree (`git worktree add`) on a feature branch and open a PR — never edit the primary checkout directly, it may hold in-flight work.
 
-**Files here are org-wide defaults.** Any ultralytics repo without its own copy inherits these community-health files, so a change here can affect every repository in the org — verify the blast radius before editing.
+**Community-health files here are org-wide defaults.** Any ultralytics repo without its own copy inherits them, so a change here can affect every repository in the org — verify the blast radius before editing.
 
 ## PR Workflow
 
@@ -41,12 +41,12 @@ This repo ships config, templates, and docs — not code. There is no package, n
 
 ## Architecture
 
-This is GitHub's special [`.github` repository](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for the `ultralytics` org. It contains no source code — only default community-health files, the org profile, issue/PR templates, and CI. Any org repo that does not define its own copy inherits these files, so edits here propagate org-wide.
+This is GitHub's special [`.github` repository](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for the `ultralytics` org. It contains no source code — only the org profile, default community-health files, issue/PR templates, and CI config. The community-health files and templates are org-wide defaults: any org repo that does not define its own copy inherits them, so editing them can affect every repository in the org. The workflows and `profile/README.md` apply to this repo only.
 
 - `profile/README.md` renders as the public org landing page at github.com/ultralytics.
 - `.github/ISSUE_TEMPLATE/` holds the default issue forms (`bug-report.yml`, `feature-request.yml`, `question.yml`) plus `config.yml`, which sets `blank_issues_enabled: true` and the docs/forum/Discord/discussions contact links.
 - `PULL_REQUEST_TEMPLATE.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, and `FUNDING.yml` are default community-health files inherited by org repos lacking their own. `LICENSE` (AGPL-3.0) and `README.md` are this repo's own and are not inherited.
-- Active CI is `.github/workflows/format.yml` only: Ultralytics Actions on issue/PR events (Ruff+docformatter for Python, prettier for YAML/JSON/Markdown/CSS, codespell, and AI-generated labels/summaries via `OPENAI_API_KEY`). CodeQL runs through the org's default code-scanning setup, not a workflow file in this repo.
+- The only workflow file in the repo is `.github/workflows/format.yml`: Ultralytics Actions on issue/PR events (Ruff+docformatter for Python, prettier for YAML/JSON/Markdown/CSS, codespell, and AI-generated labels/summaries via `OPENAI_API_KEY`). CodeQL also runs on pushes and PRs through the org's default code-scanning setup (no workflow file here), so PRs show both an Actions and a CodeQL check.
 - `workflows/stale.yml` and the root `dependabot.yml` are inert at their current paths: GitHub reads workflows only from `.github/workflows/` and Dependabot config only from `.github/dependabot.yml`. Both are legacy from the YOLOv5 template — moving them into `.github/` would activate them, so treat that as an intentional behavior change, not a cleanup.
 
 ## Conventions
