@@ -53,5 +53,5 @@ This is GitHub's special [`.github` repository](https://docs.github.com/communit
 
 - License headers: every YAML file opens with `# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license`. Ultralytics Actions adds and maintains these — don't add or revert them manually. Markdown files (README, health docs, this file) carry no header.
 - Issue templates are GitHub [issue forms](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms) (YAML schema), not classic Markdown templates; edit the `body:` fields, keep valid form syntax.
-- Formatting is bot-owned: expect an Ultralytics Actions commit on every PR branch, and note its prettier output can differ from a local prettier run.
+- Formatting is bot-owned: when Ultralytics Actions reformats or fixes spelling it pushes a commit to the PR branch (Markdown/YAML-only PRs often need none), so `git pull --rebase` after its run; its prettier output can differ from a local prettier run.
 - No versioning or release process — nothing is published from this repo; changes take effect the moment they merge to `main`.
