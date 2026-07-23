@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ultralytics.com/">
+  <a href="https://www.ultralytics.com/events/yolovision?utm_source=github&utm_medium=social&utm_campaign=yolovision26&utm_content=banner">
   <img width="1024" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="Ultralytics Banner"></a>
 </p>
 <div align="center">
