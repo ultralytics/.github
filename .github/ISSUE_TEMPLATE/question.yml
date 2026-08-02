@@ -25,7 +25,7 @@ body:
       label: Repository or product
       description: Which Ultralytics project is this about?
       placeholder: |
-        e.g., https://github.com/ultralytics/ultralytics, "Ultralytics HUB", etc.
+        e.g., https://github.com/ultralytics/ultralytics, "Ultralytics Platform", etc.
     validations:
       required: true
 

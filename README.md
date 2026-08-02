@@ -20,7 +20,7 @@ The `.github` repository is a special GitHub feature that helps standardize inte
 
 ## 🛠️ How to Use These Resources
 
-- **For Ultralytics Team Members**: Utilize these templates and workflows as defaults for new repositories or when updating existing ones. This promotes a cohesive and standardized approach across all our projects, from core models to various [integrations](https://docs.ultralytics.com/integrations) and the [Ultralytics HUB](https://platform.ultralytics.com/) platform.
+- **For Ultralytics Team Members**: Utilize these templates and workflows as defaults for new repositories or when updating existing ones. This promotes a cohesive and standardized approach across all our projects, from core models to various [integrations](https://docs.ultralytics.com/integrations) and the [Ultralytics Platform](https://platform.ultralytics.com/).
 - **For Community Contributors**: If you plan to contribute, please review the provided guidelines and use the templates. This helps us manage contributions efficiently and integrate your valuable changes more quickly. Familiarity with [Markdown syntax](https://www.markdownguide.org/basic-syntax/) is also beneficial.
 
 ## 🗣️ Feedback and Contributions

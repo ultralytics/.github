@@ -26,7 +26,7 @@ body:
       label: Repository or project
       description: Which Ultralytics repository or product is affected?
       placeholder: |
-        e.g., https://github.com/ultralytics/ultralytics or "YOLOv8 PyPI package"
+        e.g., https://github.com/ultralytics/ultralytics or "ultralytics PyPI package"
     validations:
       required: true
 
