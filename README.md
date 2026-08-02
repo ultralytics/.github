@@ -33,10 +33,9 @@ A huge thank you 🙏 to all our contributors for helping us push the boundaries
 
 ## 📄 License
 
-Ultralytics offers two licensing options to accommodate diverse needs:
+The contents of this repository are released under the [OSI-approved](https://opensource.org/license/agpl-3.0) AGPL-3.0 license. See the [LICENSE](LICENSE) file for details.
 
-- **AGPL-3.0 License**: Ideal for students, researchers, and enthusiasts passionate about open collaboration and knowledge sharing. This [OSI-approved](https://opensource.org/license/agpl-3.0) open-source license promotes transparency and community involvement. See the [LICENSE](LICENSE) file for details.
-- **Enterprise License**: Designed for commercial applications, this license permits the seamless integration of Ultralytics software and AI models into commercial products and services, bypassing the copyleft requirements of AGPL-3.0. For commercial use cases, please inquire about an [Ultralytics Enterprise License](https://www.ultralytics.com/license).
+Ultralytics software and AI models are separately available under a commercial [Ultralytics Enterprise License](https://www.ultralytics.com/license) for use in commercial products and services.
 
 ## 📬 Contact
 
