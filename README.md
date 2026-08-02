@@ -31,6 +31,12 @@ A huge thank you 🙏 to all our contributors for helping us push the boundaries
 
 [![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
+## 📄 License
+
+The contents of this repository are released under the [OSI-approved](https://opensource.org/license/agpl-3.0) AGPL-3.0 license. See the [LICENSE](LICENSE) file for details.
+
+Ultralytics software and AI models are separately available under a commercial [Ultralytics Enterprise License](https://www.ultralytics.com/license) for use in commercial products and services.
+
 ## 📬 Contact
 
 For reporting bugs or suggesting new features, please use the [GitHub Issues](https://github.com/ultralytics/.github/issues) section of the relevant repository. For discussions, questions, or sharing your projects and experiences, join our active [Discord community](https://discord.com/invite/ultralytics). You can also explore various [AI solutions](https://www.ultralytics.com/solutions) developed using Ultralytics tools on our website.
