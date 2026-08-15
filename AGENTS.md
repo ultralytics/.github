@@ -42,8 +42,7 @@ This is GitHub's special [`.github` repository](https://docs.github.com/communit
 - `profile/README.md` renders as the public org landing page at github.com/ultralytics.
 - `.github/ISSUE_TEMPLATE/` holds the default issue forms (`bug-report.yml`, `feature-request.yml`, `question.yml`) plus `config.yml`, which sets `blank_issues_enabled: true` and the docs/forum/Discord/discussions contact links.
 - `PULL_REQUEST_TEMPLATE.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, and `FUNDING.yml` are default community-health files inherited by org repos lacking their own. `LICENSE` (AGPL-3.0) and `README.md` are this repo's own and are not inherited.
-- The only workflow file in the repo is `.github/workflows/format.yml`: Ultralytics Actions on issue/PR events (Ruff+docformatter for Python, prettier for YAML/JSON/Markdown/CSS, codespell, and AI-generated labels/summaries via `OPENAI_API_KEY`). CodeQL also runs on pushes and PRs through the org's default code-scanning setup (no workflow file here), so PRs show both an Actions and a CodeQL check.
-- `workflows/stale.yml` and the root `dependabot.yml` are inert at their current paths: GitHub reads workflows only from `.github/workflows/` and Dependabot config only from `.github/dependabot.yml`. Both are legacy from the YOLOv5 template — moving them into `.github/` would activate them, so treat that as an intentional behavior change, not a cleanup.
+- The workflows are `.github/workflows/format.yml` (Ultralytics Actions on issue/PR events: prettier for YAML/JSON/Markdown/CSS, codespell, Lychee link checks, and AI-generated labels/summaries via `OPENAI_API_KEY`) and `.github/workflows/cla.yml` (Ultralytics CLA check on PRs). CodeQL also runs on pushes and PRs through the org's default code-scanning setup (no workflow file here), so PRs show Actions, CLA, and CodeQL checks.
 
 ## Conventions
 
