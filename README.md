@@ -1,4 +1,4 @@
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # 📚 Ultralytics GitHub Community Resources
 
@@ -6,8 +6,8 @@ Welcome to the Ultralytics `.github` repository! This repository serves as a cen
 
 [![Ultralytics Actions](https://github.com/ultralytics/.github/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/.github/actions/workflows/format.yml)
 [![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
-[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
-[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com)
+[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://www.reddit.com/r/ultralytics/)
 
 ## 🎯 Purpose of This Repository
 
@@ -20,7 +20,7 @@ The `.github` repository is a special GitHub feature that helps standardize inte
 
 ## 🛠️ How to Use These Resources
 
-- **For Ultralytics Team Members**: Utilize these templates and workflows as defaults for new repositories or when updating existing ones. This promotes a cohesive and standardized approach across all our projects, from core models to various [integrations](https://docs.ultralytics.com/integrations) and the [Ultralytics Platform](https://platform.ultralytics.com/).
+- **For Ultralytics Team Members**: Utilize these templates and workflows as defaults for new repositories or when updating existing ones. This promotes a cohesive and standardized approach across all our projects, from core models to various [integrations](https://docs.ultralytics.com/integrations) and the [Ultralytics Platform](https://platform.ultralytics.com).
 - **For Community Contributors**: If you plan to contribute, please review the provided guidelines and use the templates. This helps us manage contributions efficiently and integrate your valuable changes more quickly. Familiarity with [Markdown syntax](https://www.markdownguide.org/basic-syntax/) is also beneficial.
 
 ## 🗣️ Feedback and Contributions
