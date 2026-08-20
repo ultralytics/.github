@@ -1,9 +1,9 @@
 <br>
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # Ultralytics Security Policy
 
-At [Ultralytics](https://www.ultralytics.com/), the security of our users' data and systems is of utmost importance. To ensure the safety and security of our [open-source projects](https://github.com/ultralytics), we have implemented several measures to detect and prevent security vulnerabilities.
+At [Ultralytics](https://www.ultralytics.com), the security of our users' data and systems is of utmost importance. To ensure the safety and security of our [open-source projects](https://github.com/ultralytics), we have implemented several measures to detect and prevent security vulnerabilities.
 
 ## Snyk Scanning
 
@@ -13,17 +13,17 @@ We utilize [Snyk](https://security.snyk.io/package/pip/ultralytics) to conduct c
 
 ## GitHub CodeQL Scanning
 
-Our security strategy includes GitHub's [CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql) scanning. CodeQL delves deep into our codebase, identifying complex vulnerabilities like SQL injection and XSS by analyzing the code's semantic structure. This advanced level of analysis ensures early detection and resolution of potential security risks.
+Our security strategy includes GitHub's [CodeQL](https://docs.github.com/en/code-security/concepts/code-scanning/codeql/codeql-code-scanning) scanning. CodeQL delves deep into our codebase, identifying complex vulnerabilities like SQL injection and XSS by analyzing the code's semantic structure. This advanced level of analysis ensures early detection and resolution of potential security risks.
 
 [![CodeQL](https://github.com/ultralytics/ultralytics/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/ultralytics/ultralytics/actions/workflows/github-code-scanning/codeql)
 
 ## GitHub Dependabot Alerts
 
-[Dependabot](https://docs.github.com/en/code-security/dependabot) is integrated into our workflow to monitor dependencies for known vulnerabilities. When a vulnerability is identified in one of our dependencies, Dependabot alerts us, allowing for swift and informed remediation actions.
+[Dependabot](https://docs.github.com/en/code-security/how-tos/secure-your-supply-chain) is integrated into our workflow to monitor dependencies for known vulnerabilities. When a vulnerability is identified in one of our dependencies, Dependabot alerts us, allowing for swift and informed remediation actions.
 
 ## GitHub Secret Scanning Alerts
 
-We employ GitHub [secret scanning](https://docs.github.com/en/code-security/secret-scanning/managing-alerts-from-secret-scanning) alerts to detect sensitive data, such as credentials and private keys, accidentally pushed to our repositories. This early detection mechanism helps prevent potential security breaches and data exposures.
+We employ GitHub [secret scanning](https://docs.github.com/en/code-security/how-tos/manage-security-alerts/manage-secret-scanning-alerts) alerts to detect sensitive data, such as credentials and private keys, accidentally pushed to our repositories. This early detection mechanism helps prevent potential security breaches and data exposures.
 
 ## Private Vulnerability Reporting
 
@@ -55,13 +55,13 @@ To see the Snyk badge and learn more about its deployment, check the [Snyk Scann
 
 ### What is CodeQL and how does it enhance security for Ultralytics?
 
-[CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql) is a security analysis tool integrated into Ultralytics' workflow via GitHub. It delves deep into the codebase to identify complex vulnerabilities such as SQL injection and Cross-Site Scripting (XSS). CodeQL analyzes the semantic structure of the code to provide an advanced level of security, ensuring early detection and mitigation of potential risks.
+[CodeQL](https://docs.github.com/en/code-security/concepts/code-scanning/codeql/codeql-code-scanning) is a security analysis tool integrated into Ultralytics' workflow via GitHub. It delves deep into the codebase to identify complex vulnerabilities such as SQL injection and Cross-Site Scripting (XSS). CodeQL analyzes the semantic structure of the code to provide an advanced level of security, ensuring early detection and mitigation of potential risks.
 
 For more information on how CodeQL is used, visit the [GitHub CodeQL Scanning section](#github-codeql-scanning).
 
 ### How does Dependabot help maintain Ultralytics' code security?
 
-[Dependabot](https://docs.github.com/en/code-security/dependabot) is an automated tool that monitors and manages dependencies for known vulnerabilities. When Dependabot detects a vulnerability in an Ultralytics project dependency, it sends an alert, allowing the team to quickly address and mitigate the issue. This ensures that dependencies are kept secure and up-to-date, minimizing potential security risks.
+[Dependabot](https://docs.github.com/en/code-security/how-tos/secure-your-supply-chain) is an automated tool that monitors and manages dependencies for known vulnerabilities. When Dependabot detects a vulnerability in an Ultralytics project dependency, it sends an alert, allowing the team to quickly address and mitigate the issue. This ensures that dependencies are kept secure and up-to-date, minimizing potential security risks.
 
 For more details, explore the [GitHub Dependabot Alerts section](#github-dependabot-alerts).
 

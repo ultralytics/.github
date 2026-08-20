@@ -13,7 +13,7 @@ body:
     attributes:
       label: Search before asking
       description: >
-        Please review the Ultralytics [Docs](https://docs.ultralytics.com/), [issues](https://github.com/ultralytics/), and [discussions](https://github.com/orgs/ultralytics/discussions) to see if your question was already answered.
+        Please review the Ultralytics [Docs](https://docs.ultralytics.com), [issues](https://github.com/ultralytics/), and [discussions](https://github.com/orgs/ultralytics/discussions) to see if your question was already answered.
       options:
         - label: >
             I have searched Ultralytics [issues](https://github.com/ultralytics/) and [discussions](https://github.com/orgs/ultralytics/discussions) and found no similar question.

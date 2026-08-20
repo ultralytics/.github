@@ -14,7 +14,7 @@ body:
     attributes:
       label: Search before requesting
       description: >
-        Please search the Ultralytics [Docs](https://docs.ultralytics.com/) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar request already exists.
+        Please search the Ultralytics [Docs](https://docs.ultralytics.com) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar request already exists.
       options:
         - label: >
             I have searched the appropriate Ultralytics [issues](https://github.com/ultralytics/) and found no similar feature request.

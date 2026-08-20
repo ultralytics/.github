@@ -14,7 +14,7 @@ body:
     attributes:
       label: Search before reporting
       description: >
-        Please search the Ultralytics [Docs](https://docs.ultralytics.com/) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar bug report already exists.
+        Please search the Ultralytics [Docs](https://docs.ultralytics.com) and the relevant repository's [issues](https://github.com/ultralytics/) to see if a similar bug report already exists.
       options:
         - label: >
             I have searched the appropriate Ultralytics [issues](https://github.com/ultralytics/) and found no similar bug report.
@@ -73,7 +73,7 @@ body:
     attributes:
       label: Minimal reproducible example
       description: >
-        Provide the smallest possible code/config snippet and steps to reproduce. See our [guide](https://docs.ultralytics.com/help/minimum_reproducible_example/) for tips.
+        Provide the smallest possible code/config snippet and steps to reproduce. See our [guide](https://docs.ultralytics.com/help/minimum_reproducible_example) for tips.
       placeholder: |
         ```python
         # Code or commands here
