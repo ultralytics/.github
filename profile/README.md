@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.ultralytics.com/yolo/yolo27?utm_source=github&utm_medium=social&utm_campaign=yolo27-launch-2026&utm_content=banner">
-  <img width="1024" src="https://cdn.ul.run/i/ffd8c9fc5b34d01128380e5dd3ad1fa3.avif" alt="Ultralytics Banner"></a>
+  <img width="1024" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="Ultralytics Banner"></a>
 </p>
 <div align="center">
 
